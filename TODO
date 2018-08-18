@@ -1,0 +1,15 @@
+
+
+Setup the project:
+1. Chose a framework
+ - I will use Tenserflow because it's the most popular one
+2. Spec the idea
+ - I want to predict the values of a function
+3. Write issues to implement your idea
+ - Read about modeling a function in Tenserflow
+ - Understand concepts involved in modeling a function
+ - do the work.
+4. Work
+
+
+
