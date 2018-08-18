@@ -14,4 +14,5 @@ Instal docker from https://docs.docker.com/install/#supported-platforms .
 ![image](https://user-images.githubusercontent.com/7108834/44296971-84856780-a2d1-11e8-8eea-2098a0856356.png)
 
  - the code will be saved in `notebooks` folder
+ - if you want to execute the code from a block press `CTRL + ENTER`
 
